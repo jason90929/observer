@@ -1,6 +1,4 @@
-/*!
-  Copyright (c) 2017 Jed Watson.
-  Licensed under the MIT License (MIT), see
+/*
   https://github.com/jason90929/observer
 */
 /* global define */
